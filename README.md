@@ -1,7 +1,6 @@
 # 💫 About Me:
 Aspiring AI and Machine Learning Engineer with solid foundation in data science, cloud computing (AWS), and full- stack web technologies including Vue.js and .NET. Experienced in developing and deploying AI-driven projects such as object detection, language translation APIs, and live gesture recognition with proven accuracy improvements and performance optimizations. Skilled in software engineering best practices, including unit testing and code documentation. Currently pursuing B.Tech in Computer Science (AI & ML) with hands-on experience in scalable application development and data analytics.
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4eZGRED2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100089716900439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shankar_adari_1019/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivashankaradari/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shankar5adari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shankar5adari@gmail.com) 
 
